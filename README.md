@@ -1,1 +1,1 @@
-![berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaygulerr&show_icons=true&theme=radical)
+![berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaygulerr&show_icons=true&theme=tokyonight)
